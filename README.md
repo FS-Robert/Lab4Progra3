@@ -11,7 +11,7 @@ PROGRAMACION COMPUTACIONAL III**
 
 
 INTEGRANTES - 
-**ROBERTO ANTONIO LOPEZ RAMIREZ** ==
+**ROBERTO ANTONIO LOPEZ RAMIREZ** --
 GERARDO ELISEO GUEVARA REYES 
 --------------------------------------------------------------------
 
