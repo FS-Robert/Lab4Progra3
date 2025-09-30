@@ -13,7 +13,9 @@ print(df.describe(include='all'))
 # 3. Identificar los tipos de datos de cada columna utilizando dtypes
 print("\nTipos de datos de cada columna:")
 print(df.dtypes)
-
+# Análisis posible:
+# - Columnas numéricas (budget, revenue, runtime, vote_average, vote_count, etc.) permiten análisis estadístico.
+# - Columnas booleanas (adult, video) permiten conteos y proporciones.
 
 
 # 4. Mostrar los primeros y últimos registros
