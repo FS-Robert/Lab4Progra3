@@ -67,6 +67,5 @@ indica el promedio general de calificaciones (vote_average).
 **Mediana:** 
 muestra el valor central, útil si hay valores extremos que distorsionan la media.
 **Desviación**  
-estándar: indica cuánta variación existe en las calificaciones.
-Estas medidas ayudan a resumir el comportamiento general de los datos y a detectar anomalías o patrones significativos.
+estándar: indica cuánta variación existe en las calificaciones. Estas medidas ayudan a resumir el comportamiento general de los datos y a detectar anomalías o patrones significativos.
 
